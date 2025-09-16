@@ -1,56 +1,71 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Vikrant+Kulkarni+👋;Electronics+%26+Telecommunication+Engineer;Embedded+Systems+%7C+AI+%7C+DSA;Innovating+at+the+Intersection+of+Hardware+%26+AI+🚀" alt="Typing SVG" />
-</p>
+<!-- Banner -->
+<div align="center">
+
+# Hi, I am Vikrant Kulkarni  !
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Exploring%20Embedded%20Systems%20with%20a%20Pinch%20of%20AI%2FML&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+</div>
 
 ---
 
-## 🌌 About Me  
-🎓 **E&TC Student @ DYPIT Pimpri, Pune**  
-🔭 Currently working on **DSA + AI**  
-🛠️ Experienced with **MATLAB & Google Console**  
-🌱 Exploring **Embedded Systems + AI**  
-🎯 Goal: **Build impactful projects & innovate in Embedded + AI**  
+## ⚡ Tech Stack  
+
+**Languages & Core**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-2C2C2C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+**Web & Frameworks**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Tools & IDEs**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🛠️ Tech Toolbox  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,c,python,git,github" />
-</p>
+## 🔨 Projects  
+
+- 🤖 **Arduino Projects** – IoT, automation, and sensor-based builds  
+- 🛒 **Amazon Clone** – Practicing frontend skills with HTML & CSS  
+- 🎬 **Netflix Clone** – Creative UI design project  
+- 🌐 **Netisore** – Tech-based service startup initiative  
+- 🧩 **Mini Projects** – APIs, SQL, Python scripts, and more  
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikrantkulkarni07&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=vikrantkulkarni07&theme=radical" height="160"/>
-</p>  
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantkulkarni07&layout=compact&theme=radical" height="160"/>
-</p>
+<div align="center">
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=vikrantkulkarni07&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikrantkulkarni07&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantkulkarni07&layout=compact&theme=tokyonight&hide_border=true)  
 
-## 🚀 Highlight Projects  
-✨ [Amazon Clone](https://github.com/vikrantkulkarni07) – *Frontend replica using HTML/CSS*  
-✨ [Netflix Clone](https://github.com/vikrantkulkarni07) – *Creative UI project with HTML/CSS/JS*  
-✨ [Netisore](https://github.com/vikrantkulkarni07) – *Ongoing tech-based service platform*  
-✨ [Portfolio Website](https://vikrantkulkarni07.github.io) – *Personal portfolio built with HTML/CSS*  
+</div>
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/vikrant-kulkarni-a866b4329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vikrantkulkarni07"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://vikrantkulkarni07.github.io"><img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
+## 🌐 Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-kulkarni-a866b4329)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vikrantkulkarni07.github.io/portfolio)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikrantkulkarni07)  
 
 ---
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks+for+visiting!+✨&fontSize=25&fontAlignY=45&desc=Let's+Build+the+Future+Together&descAlignY=65&descAlign=50"/>
-</p>
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vikrantkulkarni07&style=flat-square&color=blue)
+
+</div>
